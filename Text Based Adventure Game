@@ -37,6 +37,7 @@ def checkPath(chosenPath):
     else:
         print(" Peu importe ton choix. Cela se produira.")
 
+#Bon ensuite il s'agit simplement de rajouter des boucles mais il est 2H00 donc bonne nuit tout le monde (oui je n'ai pas pu veiller, pas même une heure ^^")
 
 
 playAgain = "yes"
@@ -45,3 +46,4 @@ while playAgain == "yes" or playAgain == "y":
     choice = choosePath()
     checkPath(choice) # choice is equal to "1" or "2"
     playAgain = input("Do you want to play again? (yes or y to continue playing): ")
+    
