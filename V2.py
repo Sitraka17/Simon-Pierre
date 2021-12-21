@@ -45,5 +45,5 @@ while playAgain == "yes" or playAgain == "y":
     displayIntro()
     choice = choosePath()
     checkPath(choice) # choice is equal to "1" or "2"
-    playAgain = input("Do you want to play again? (yes or y to continue playing): ")
+    playAgain = input("Veux tu continuer à jouer? (y or n)")
     
