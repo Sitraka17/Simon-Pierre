@@ -8,6 +8,5 @@ def display_chanson_lyrics(chanson):
   else:
     print("Invalid chanson selection.")
 
-chanson = input("Select chanson1 or chanson2: ")
+chanson = input("Select Gaute or Rejoyce: ")
 display_chanson_lyrics(chanson)
-
