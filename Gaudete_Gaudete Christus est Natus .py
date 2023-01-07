@@ -2,17 +2,9 @@
 
 def display_chanson_lyrics(chanson):
   if chanson == "Gaute":
-    print("Gaudete, gaudete!
-Christus est natus
-Ex Maria Virgine,
-Gaudete!
-
-Tempus adest gratiae
-Hoc quod optabamus,
-Carmina laetitiae
-Devote redamus.")
-  elif chanson == "chanson2":
-    print("Lyrics for chanson2 go here.")
+    print("Gaudete, gaudete! Christus est natus Ex Maria Virgine, Gaudete!  Tempus adest gratiae Hoc quod optabamus,Carmina laetitiae Devote redamus.")
+  elif chanson == "Rejoyce":
+    print("Lyrics for Gaute in English")
   else:
     print("Invalid chanson selection.")
 
