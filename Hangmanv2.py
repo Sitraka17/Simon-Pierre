@@ -142,8 +142,6 @@ def hangman():
     elif count != limit:
         hangman()
  
- 
 main()
- 
  
 hangman()
