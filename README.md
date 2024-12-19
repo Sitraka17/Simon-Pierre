@@ -25,7 +25,7 @@ The game can be played multiple times by using a while loop that asks the player
 
 # Credits
 
-This game is based on the code written by Mr. McNally. The code was modified and translated into French by FORLER.
+This game is based on the code written by Mr. McNally. The code was modified and translated into French by me (Sitraka Forler). 
 
 
 
